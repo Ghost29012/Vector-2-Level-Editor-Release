@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Track>
+    <Content>
+      <Image X="-1141" Y="1485" ClassName="black.v_black" Width="5693.405" Height="1534.382" NativeX="400" NativeY="400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="5693" B="0" C="0" D="1534" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="1830" Y="406" ClassName="black.v_black" Width="298.203" Height="1299.782" NativeX="400" NativeY="400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="219" B="-202.3692" C="882.0699" D="955" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Platform X="-927" Y="-45" Width="5512.167" Height="1364.927" />
+      <Platform X="1167" Y="-762" Width="1352.686" Height="296.5985" />
+      <In Name="In" X="-846" Y="-66" />
+      <Out Name="Out" X="4492" Y="-166" />
+    </Content>
+  </Track>
+</Root>

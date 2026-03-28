@@ -1,0 +1,2001 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Track>
+    <Content>
+      <Image X="-1141" Y="1485" ClassName="black.v_black" Width="5693.405" Height="1534.382" NativeX="400" NativeY="400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="5693" B="0" C="0" D="1534" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-846" Y="-426" ClassName="VisualRunner: traps_shadows.gradient_intense" Width="16000" Height="1500" NativeX="25600" NativeY="1600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="16000" C="-1500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1857" Y="-454" ClassName="VisualRunner: traps_shadows.v_white" Width="1600" Height="1600" NativeX="5000" NativeY="5000" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="1600" B="0" C="0" D="1600" Tx="0" Ty="0" />
+            <StartColor Color="#203650" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1816" Y="-396" ClassName="VisualRunner: walls.wall_white_1x400_decals" Width="64500" Height="30000" NativeX="800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="64500" B="0" C="0" D="30000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1790" Y="-401" ClassName="VisualRunner: walls.pw_angle_up" Width="3100" Height="3500" NativeX="3100" NativeY="3500" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-3100" B="0.0002710106" C="-0.0003059797" D="-3500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1790" Y="-126" ClassName="VisualRunner: walls.pw_angle_down" Width="3100" Height="3500" NativeX="3100" NativeY="3500" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-3100" B="0.0002710106" C="-0.0003059797" D="-3500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1790" Y="-367" ClassName="VisualRunner: walls.pw_main_vert" Width="3100" Height="24200" NativeX="3100" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-3100" B="0.0002710106" C="-0.002115631" D="-24200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1197" Y="-401" ClassName="VisualRunner: walls.pw_angle_up" Width="3100" Height="3500" NativeX="3100" NativeY="3500" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="3100" B="0" C="0" D="3500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1197" Y="-126" ClassName="VisualRunner: walls.pw_angle_down" Width="3100" Height="3500" NativeX="3100" NativeY="3500" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="3100" B="0" C="0" D="3500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1197" Y="-367" ClassName="VisualRunner: walls.pw_main_vert" Width="3100" Height="24200" NativeX="3100" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="3100" B="0" C="0" D="24200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1791" Y="-401" ClassName="VisualRunner: walls.pw_main_hor_up" Width="100" Height="3500" NativeX="800" NativeY="3500" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="3500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1791" Y="-126" ClassName="VisualRunner: walls.pw_main_hor_down" Width="100" Height="3500" NativeX="800" NativeY="3500" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="3500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1593" Y="-401" ClassName="VisualRunner: walls.pw_decal_edge_up" Width="10800" Height="4600" NativeX="10800" NativeY="4600" Layer="CDecals">
+        <Properties>
+          <Static>
+            <Matrix A="10800" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1593" Y="-401" ClassName="VisualRunner: walls.pw_decal_light_center_up" Width="19900" Height="4600" NativeX="500" NativeY="4600" Layer="CDecals">
+        <Properties>
+          <Static>
+            <Matrix A="19900" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1394" Y="-401" ClassName="VisualRunner: walls.pw_decal_edge_up" Width="10800" Height="4600" NativeX="10800" NativeY="4600" Layer="CDecals">
+        <Properties>
+          <Static>
+            <Matrix A="10800" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1593" Y="-137" ClassName="VisualRunner: walls.pw_decal_edge_down" Width="10800" Height="4600" NativeX="10800" NativeY="4600" Layer="CDecals">
+        <Properties>
+          <Static>
+            <Matrix A="10800" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1593" Y="-137" ClassName="VisualRunner: walls.pw_decal_light_center_down" Width="19900" Height="4600" NativeX="800" NativeY="4600" Layer="CDecals">
+        <Properties>
+          <Static>
+            <Matrix A="19900" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1394" Y="-137" ClassName="VisualRunner: walls.pw_decal_edge_down" Width="10800" Height="4600" NativeX="10800" NativeY="4600" Layer="CDecals">
+        <Properties>
+          <Static>
+            <Matrix A="10800" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1028" Y="-66" ClassName="VisualRunner: black.v_black" Width="2600" Height="36100" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="2600" B="0" C="0" D="36100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1002" Y="-427" ClassName="VisualRunner: black.v_black" Width="2600" Height="36100" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="2600" B="0" C="0" D="36100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-861" Y="-426" ClassName="VisualRunner: walls.door_corridor" Width="15800" Height="36000" NativeX="15800" NativeY="36000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="15800" B="0" C="0" D="36000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1143" Y="-426" ClassName="VisualRunner: walls.door_corridor" Width="15800" Height="36000" NativeX="15800" NativeY="36000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="15800" B="0" C="0" D="36000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1127" Y="-389" ClassName="VisualRunner: walls.heck" Width="11700" Height="29600" NativeX="11700" NativeY="29600" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="11700" B="0" C="0" D="29600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-877" Y="-389" ClassName="VisualRunner: walls.heck" Width="11700" Height="29600" NativeX="11700" NativeY="29600" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="11700" B="0" C="0" D="29600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1865" Y="-791" ClassName="VisualRunner: walls.wall_white_1x400" Width="101900" Height="105600" NativeX="800" NativeY="800" Layer="Wall">
+        <Properties>
+          <Static>
+            <Matrix A="101900" B="0" C="0" D="105600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1882" Y="-66" ClassName="VisualRunner: black.v_black" Width="103800" Height="158000" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="103800" B="0" C="0" D="158000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1034" Y="-324" ClassName="VisualRunner: lights.liftlamp" Width="43644.12" Height="6698.708" NativeX="36397.42" NativeY="6698.709" Layer="Lights">
+        <Properties>
+          <Static>
+            <Matrix A="-43644" B="0.00381549" C="-0.0005856197" D="-6699" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1398" Y="-324" ClassName="VisualRunner: lights.liftlamp" Width="43644.12" Height="6698.708" NativeX="36397.42" NativeY="6698.709" Layer="Lights">
+        <Properties>
+          <Static>
+            <Matrix A="-43644" B="0.00381549" C="-0.0005856197" D="-6699" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1871" Y="-456" ClassName="VisualRunner: black.lab_ceiling" Width="94500" Height="3000" NativeX="94500" NativeY="3200" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="94500" B="0" C="0" D="3000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1056" Y="-463" ClassName="VisualRunner: black.v_black" Width="23100" Height="3700" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="23100" B="0" C="0" D="3700" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="-1871" Y="-1099" ClassName="VisualRunner: black.v_black" Width="104600" Height="64600" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="104600" B="0" C="0" D="64600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5446" Y="-172" ClassName="VisualRunner: lights.lamp_v_white" Width="4400" Height="4300" NativeX="5000" NativeY="5000" Layer="LightsAdd">
+        <Properties>
+          <Static>
+            <Matrix A="4400" B="0" C="0" D="4300" Tx="0" Ty="0" />
+            <StartColor Color="#000000" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5436" Y="-184" ClassName="VisualRunner: lights.lamp_bg_blue_round_64x64" Width="5322.793" Height="5332.32" NativeX="4484.776" NativeY="4494.869" Layer="Lights">
+        <Properties>
+          <Static>
+            <Matrix A="5323" B="0" C="0" D="5332" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5366" Y="106" ClassName="VisualRunner: black.slope_4_2" Width="9000.004" Height="12800" NativeX="9000" NativeY="12800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-5441" B="-7168.729" C="10195.52" D="-7739" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5515" Y="136" ClassName="VisualRunner: black.springs_512x512" Width="22600" Height="25600" NativeX="22600" NativeY="25600" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-20966" B="-8436.662" C="9556.573" D="-23749" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5375" Y="42" ClassName="Support" Width="9359.62" Height="5464.115" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="3317" B="-8752.231" C="5109.523" D="1936" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5310" Y="57" ClassName="VisualRunner: black.slope_3_2" Width="17700" Height="10400" NativeX="17700" NativeY="10400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-17700" C="10400" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5680" Y="-130" ClassName="VisualRunner: black.pedestal_1_2" Width="32000" Height="4000" NativeX="38500" NativeY="4800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="32000" B="0" C="0" D="4000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5720" Y="-144" ClassName="VisualRunner: black.silhouette_main_2_7" Width="4400" Height="4700" NativeX="5700" NativeY="6000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="4400" B="0" C="0" D="4700" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5543" Y="105" ClassName="VisualRunner: black.springs_512x512" Width="22599.97" Height="25599.96" NativeX="22600" NativeY="25600" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-21392" B="-7290.671" C="8258.457" D="-24231" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5495" Y="-166" ClassName="VisualRunner: black.v_black" Width="21500" Height="2300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="21500" B="0" C="0" D="2300" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5360" Y="-142" ClassName="VisualRunner: black.slope_2_3" Width="17300" Height="4100" NativeX="17300" NativeY="4100" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-17300" B="0.001512414" C="-0.0003584334" D="-4100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5360" Y="-145" ClassName="VisualRunner: black.v_black" Width="23800" Height="2400" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="23800" B="0" C="0" D="2400" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5720" Y="-166" ClassName="VisualRunner: black.tp_sphere_simple" Width="1100" Height="1100" NativeX="6400" NativeY="6400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="1100" B="0" C="0" D="1100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5582" Y="-147" ClassName="VisualRunner: black.v_black" Width="9700" Height="1800" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="9700" B="0" C="0" D="1800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5684" Y="-156" ClassName="VisualRunner: black.v_black" Width="3600" Height="1200" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="3600" B="0" C="0" D="1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5665" Y="-133" ClassName="VisualRunner: black.v_black" Width="1500" Height="2600" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="1500" B="0" C="0" D="2600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5493" Y="-169" ClassName="VisualRunner: black.v_black" Width="3099.999" Height="1400.002" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="3067" B="451.2502" C="-203.7907" D="1385" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4617" Y="-526" ClassName="VisualRunner: black.v_black" Width="2600" Height="100" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="2600" B="0" C="0" D="100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4643" Y="-527" ClassName="VisualRunner: black.v_black" Width="2600" Height="100" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="2600" B="0" C="0" D="100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4784" Y="-526" ClassName="VisualRunner: walls.door_corridor" Width="15800" Height="36000" NativeX="15800" NativeY="36000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="15800" B="0" C="0" D="36000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4502" Y="-526" ClassName="VisualRunner: walls.door_corridor" Width="15800" Height="36000" NativeX="15800" NativeY="36000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="15800" B="0" C="0" D="36000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4536" Y="-489" ClassName="VisualRunner: walls.heck" Width="11700" Height="29600" NativeX="11700" NativeY="29600" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="11700" B="0" C="0" D="29600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4750" Y="-489" ClassName="VisualRunner: walls.heck" Width="11700" Height="29600" NativeX="11700" NativeY="29600" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="11700" B="0" C="0" D="29600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5991" Y="-296" ClassName="VisualRunner: black.v_black" Width="3600" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1313" B="-3352.038" C="5586.73" D="2188" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5948" Y="-352" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="906" B="-1086.128" C="543.0641" D="453" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5989" Y="-346" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-73" B="1412.333" C="-706.1667" D="-36" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5985" Y="-309" ClassName="VisualRunner: black.v_black" Width="3600" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1313" B="-3352.038" C="3724.487" D="1459" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5963" Y="-226" ClassName="VisualRunner: black.v_black" Width="6000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="2188" B="-5586.73" C="5586.73" D="2188" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6068" Y="-494" ClassName="VisualRunner: black.v_black" Width="5000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1824" B="4655.609" C="-5586.73" D="-2188" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6059" Y="-498" ClassName="VisualRunner: black.v_black" Width="6000" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-2188" B="5586.73" C="-3724.487" D="-1459" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6050" Y="-448" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1296" B="566.413" C="-566.413" D="-1296" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6013" Y="-462" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1296" B="566.413" C="-566.413" D="-1296" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5967" Y="-289" ClassName="VisualRunner: black.v_black" Width="16800" Height="2000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="6127" B="-15642.85" C="1862.244" D="729" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5958" Y="-214" ClassName="VisualRunner: black.v_black" Width="3600" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="3600" B="0" C="0" D="6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5994" Y="-154" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1342" B="-447.2137" C="223.6069" D="671" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6004" Y="-194" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1342" B="-447.2136" C="223.6068" D="-671" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5968" Y="-204" ClassName="VisualRunner: black.v_black" Width="3600" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="3600" B="0" C="0" D="4000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5902" Y="-214" ClassName="VisualRunner: black.v_black" Width="6000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="6000" B="0" C="0" D="6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6165" Y="-214" ClassName="VisualRunner: black.v_black" Width="5000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-5000" B="0.0004371139" C="-0.0005245366" D="-6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6165" Y="-204" ClassName="VisualRunner: black.v_black" Width="6000" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-6000" B="0.0005245366" C="-0.0003496911" D="-4000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6115" Y="-214" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1000" B="999.9999" C="-999.9999" D="-1000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6115" Y="-174" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1000" B="999.9999" C="-999.9999" D="-1000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5962" Y="-194" ClassName="VisualRunner: black.v_black" Width="14300" Height="2000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="14300" B="0" C="0" D="2000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5999" Y="-49" ClassName="VisualRunner: black.v_black" Width="3600" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1313" B="3352.038" C="-5586.73" D="2188" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5957" Y="7" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="906" B="1086.128" C="-543.0642" D="453" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5997" Y="1" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-73" B="-1412.334" C="706.1668" D="-36" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5994" Y="-36" ClassName="VisualRunner: black.v_black" Width="3600" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1313" B="3352.038" C="-3724.487" D="1459" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5963" Y="-140" ClassName="VisualRunner: black.v_black" Width="6000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="2188" B="5586.73" C="-5586.73" D="2188" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6068" Y="128" ClassName="VisualRunner: black.v_black" Width="5000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1824" B="-4655.609" C="5586.731" D="-2188" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6059" Y="132" ClassName="VisualRunner: black.v_black" Width="6000" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-2188" B="-5586.731" C="3724.487" D="-1459" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6050" Y="81" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1296" B="-566.4131" C="566.4131" D="-1296" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6013" Y="96" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1296" B="-566.4131" C="566.4131" D="-1296" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5967" Y="-77" ClassName="VisualRunner: black.v_black" Width="16800" Height="2000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="6127" B="15642.85" C="-1862.244" D="729" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5870" Y="270" ClassName="VisualRunner: black.v_black" Width="37600.06" Height="30700.01" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="28778" B="-24199" C="19758.2" D="23497" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5896" Y="-670" ClassName="VisualRunner: black.v_black" Width="37600.09" Height="30700" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="27065" B="-26100.3" C="21310.57" D="22099" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="-747" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-10700" C="8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="-524" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-10700" C="8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="-738" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="10700" C="-8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="-514" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="10700" C="-8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="-300" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-10700" C="8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="-291" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="10700" C="-8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="-77" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-10700" C="8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="-67" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="10700" C="-8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="147" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-10700" C="8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="156" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="10700" C="-8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="370" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-10700" C="8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="380" ClassName="VisualRunner: black.support_1" Width="10700" Height="8500" NativeX="10700" NativeY="8500" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="10700" C="-8500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5936" Y="-115" ClassName="VisualRunner: black.v_black" Width="6800.005" Height="20400.03" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="4808" B="-4808.33" C="14425" D="14425" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5936" Y="-562" ClassName="VisualRunner: black.v_black" Width="6800.005" Height="20400.03" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="4808" B="-4808.33" C="14425" D="14425" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5938" Y="193" ClassName="VisualRunner: black.v_black" Width="6800.005" Height="20400.03" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-4808" B="4808.33" C="-14425" D="-14425" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5936" Y="332" ClassName="VisualRunner: black.v_black" Width="6800.005" Height="20400.03" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="4808" B="-4808.33" C="14425" D="14425" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5938" Y="-254" ClassName="VisualRunner: black.v_black" Width="6800.005" Height="20400.03" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-4808" B="4808.33" C="-14425" D="-14425" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5938" Y="-701" ClassName="VisualRunner: black.v_black" Width="6800.005" Height="20400.03" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-4808" B="4808.33" C="-14425" D="-14425" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="-738" ClassName="VisualRunner: black.v_black" Width="23300" Height="3300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-23300" C="3300" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6115" Y="-514" ClassName="VisualRunner: black.v_black" Width="23300" Height="3300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-23300" C="3300" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="-291" ClassName="VisualRunner: black.v_black" Width="23300" Height="3300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-23300" C="3300" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6115" Y="-67" ClassName="VisualRunner: black.v_black" Width="23300" Height="3300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-23300" C="3300" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5907" Y="156" ClassName="VisualRunner: black.v_black" Width="23300" Height="3300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-23300" C="3300" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6115" Y="380" ClassName="VisualRunner: black.v_black" Width="23300" Height="3300" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-23300" C="3300" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5895" Y="413" ClassName="VisualRunner: traps_shadows.gradient_intense" Width="16000" Height="1500" NativeX="25600" NativeY="1600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-16000" C="1500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5938" Y="-784" ClassName="VisualRunner: traps_shadows.gradient_intense" Width="16000" Height="1500" NativeX="25600" NativeY="1600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="16000" B="0" C="0" D="1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6047" Y="-683" ClassName="VisualRunner: walls.panel_brown_underfloor_support" Width="4900" Height="25600" NativeX="4900" NativeY="25600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="4900" B="0" C="0" D="25600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6047" Y="-427" ClassName="VisualRunner: walls.panel_brown_underfloor_support_lower" Width="4900" Height="22000" NativeX="4900" NativeY="1600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="4900" B="0" C="0" D="22000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6047" Y="-857" ClassName="VisualRunner: walls.panel_brown_underfloor_support_upper" Width="4900" Height="17500" NativeX="4900" NativeY="1600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="4900" B="0" C="0" D="17500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="-697" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="-697" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="-857" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5854" Y="-570" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6287" Y="-570" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5856" Y="-730" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6289" Y="-730" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="-377" ClassName="VisualRunner: walls.panel_brown_underfloor_empty" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6289" Y="-410" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5856" Y="-410" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6287" Y="-250" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5854" Y="-250" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="-537" ClassName="VisualRunner: walls.panel_brown_underfloor_lightweight" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="-537" ClassName="VisualRunner: walls.panel_brown_underfloor_lightweight" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="-377" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="-857" ClassName="VisualRunner: walls.panel_brown_underfloor_secret" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6047" Y="49" ClassName="VisualRunner: walls.panel_brown_underfloor_support" Width="4900" Height="25600" NativeX="4900" NativeY="25600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-4900" B="0.0004283716" C="-0.002238023" D="-25600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="-57" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="-57" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="-217" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5854" Y="70" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5856" Y="-90" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6286" Y="-90" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="19700" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="19700" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="263" ClassName="VisualRunner: walls.panel_brown_underfloor_empty" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5856" Y="230" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5854" Y="390" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5919" Y="103" ClassName="VisualRunner: walls.panel_brown_underfloor_lightweight" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="103" ClassName="VisualRunner: walls.panel_brown_underfloor_lightweight" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="263" ClassName="VisualRunner: walls.panel_brown_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6096" Y="-217" ClassName="VisualRunner: walls.panel_brown_underfloor_secret" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6047" Y="424" ClassName="VisualRunner: walls.panel_brown_underfloor_support_upper" Width="4900" Height="37500" NativeX="4900" NativeY="1600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-4900" B="0.0004283716" C="-0.003278354" D="-37500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6255" Y="390" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="16800" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="16800" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6267" Y="230" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="17800" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="17800" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6287" Y="70" ClassName="VisualRunner: walls.panel_brown_underfloor_beam" Width="20000" Height="4600" NativeX="20000" NativeY="4600" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="20000" B="0" C="0" D="4600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6148" Y="403" ClassName="VisualRunner: black.v_black" Width="26000" Height="183100" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="26000" B="0" C="0" D="183100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="6154" Y="-2716" ClassName="VisualRunner: black.v_black" Width="26000" Height="194700" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="26000" B="0" C="0" D="194700" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="7546" Y="-2716" ClassName="VisualRunner: black.v_black" Width="141000" Height="495000" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="141000" B="0" C="0" D="495000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5914" Y="-787" ClassName="VisualRunner: black.v_black" Width="11300" Height="8100" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="11300" B="0" C="0" D="8100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5908" Y="343" ClassName="VisualRunner: black.v_black" Width="11600" Height="8900" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="11600" B="0" C="0" D="8900" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5672" Y="-376" ClassName="VisualRunner: walls.ww_frame_vertical" Width="6100" Height="6000" NativeX="6100" NativeY="800" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="6100" B="0" C="0" D="6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5669" Y="-316" ClassName="VisualRunner: walls.ww_corner_down" Width="6400" Height="12500" NativeX="6400" NativeY="12500" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="6400" B="0" C="0" D="12500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5669" Y="-501" ClassName="VisualRunner: walls.ww_corner_up" Width="6400" Height="12500" NativeX="6400" NativeY="12500" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="6400" B="0" C="0" D="12500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4870" Y="-376" ClassName="VisualRunner: walls.ww_frame_vertical" Width="6100" Height="6000" NativeX="6100" NativeY="800" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-6100" B="0.0005332789" C="-0.0005245366" D="-6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4873" Y="-316" ClassName="VisualRunner: walls.ww_corner_down" Width="6400" Height="12500" NativeX="6400" NativeY="12500" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-6400" B="0.0005595058" C="-0.001092785" D="-12500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4873" Y="-501" ClassName="VisualRunner: walls.ww_corner_up" Width="6400" Height="12500" NativeX="6400" NativeY="12500" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-6400" B="0.0005595058" C="-0.001092785" D="-12500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5645" Y="-501" ClassName="VisualRunner: walls.ww_frame_up" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="2400" B="0" C="0" D="6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5645" Y="-252" ClassName="VisualRunner: walls.ww_frame_down" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="2400" B="0" C="0" D="6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5403" Y="-501" ClassName="VisualRunner: walls.ww_lamp_up" Width="24200" Height="6100" NativeX="24200" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="24200" B="0" C="0" D="6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5403" Y="-252" ClassName="VisualRunner: walls.ww_lamp_down" Width="24200" Height="5170.718" NativeX="24200" NativeY="5170.711" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="24200" B="0" C="0" D="5171" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4897" Y="-501" ClassName="VisualRunner: walls.ww_frame_up" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-2400" B="0.0002098147" C="-0.0005332789" D="-6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4897" Y="-252" ClassName="VisualRunner: walls.ww_frame_down" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-2400" B="0.0002098147" C="-0.0005332789" D="-6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5139" Y="-501" ClassName="VisualRunner: walls.ww_lamp_up" Width="24200" Height="6100" NativeX="24200" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-24200" B="0.002115631" C="-0.0005332789" D="-6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5139" Y="-252" ClassName="VisualRunner: walls.ww_lamp_down" Width="24200" Height="5170.718" NativeX="24200" NativeY="5170.711" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-24200" B="0.002115631" C="-0.0004520385" D="-5171" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5379" Y="-501" ClassName="VisualRunner: walls.ww_frame_up" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="2400" B="0" C="0" D="6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5379" Y="-252" ClassName="VisualRunner: walls.ww_frame_down" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="2400" B="0" C="0" D="6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5283" Y="-501" ClassName="VisualRunner: walls.ww_bend_up" Width="9600" Height="8200" NativeX="9600" NativeY="8200" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="9600" B="0" C="0" D="8200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5283" Y="-273" ClassName="VisualRunner: walls.ww_bend_down" Width="9600" Height="7398.709" NativeX="9600" NativeY="7398.709" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="9600" B="0" C="0" D="7399" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5163" Y="-501" ClassName="VisualRunner: walls.ww_frame_up" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-2400" B="0.0002098147" C="-0.0005332789" D="-6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5163" Y="-252" ClassName="VisualRunner: walls.ww_frame_down" Width="2400" Height="6100" NativeX="800" NativeY="6100" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-2400" B="0.0002098147" C="-0.0005332789" D="-6100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5259" Y="-501" ClassName="VisualRunner: walls.ww_bend_up" Width="9600" Height="8200" NativeX="9600" NativeY="8200" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-9600" B="0.0008392587" C="-0.0007168668" D="-8200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5259" Y="-273" ClassName="VisualRunner: walls.ww_bend_down" Width="9600" Height="7398.709" NativeX="9600" NativeY="7398.709" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="-9600" B="0.0008392587" C="-0.0006468157" D="-7399" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5259" Y="-501" ClassName="VisualRunner: walls.ww_decal_up" Width="2400" Height="8200" NativeX="800" NativeY="8200" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="2400" B="0" C="0" D="8200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5259" Y="-273" ClassName="VisualRunner: walls.ww_decal_down" Width="2400" Height="8200" NativeX="800" NativeY="8200" Layer="CAperture">
+        <Properties>
+          <Static>
+            <Matrix A="2400" B="0" C="0" D="8200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5234" Y="-141" ClassName="VisualRunner: walls.recessed_panel_main_1" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5234" Y="539" ClassName="VisualRunner: walls.recessed_panel_main_2" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5234" Y="-22" ClassName="VisualRunner: walls.recessed_panel_edge_3" Width="12800" Height="56200" NativeX="12800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="56200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5734" Y="-141" ClassName="VisualRunner: walls.recessed_panel_main_1" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-12800" B="0.001119012" C="-0.001049073" D="-12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5734" Y="539" ClassName="VisualRunner: walls.recessed_panel_main_2" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-12800" B="0.001119012" C="-0.001049073" D="-12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5734" Y="-22" ClassName="VisualRunner: walls.recessed_panel_edge_3" Width="12800" Height="56200" NativeX="12800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-12800" B="0.001119012" C="-0.00491316" D="-56200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5361" Y="-141" ClassName="VisualRunner: walls.recessed_panel_edge_1" Width="100" Height="12000" NativeX="800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5361" Y="539" ClassName="VisualRunner: walls.recessed_panel_edge_2" Width="100" Height="12000" NativeX="800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5361" Y="-22" ClassName="VisualRunner: walls.recessed_panel_center" Width="100" Height="56200" NativeX="800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="56200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4492" Y="-526" ClassName="VisualRunner: traps_shadows.gradient_intense_rounded" Width="25600" Height="16000" NativeX="25600" NativeY="25600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="25600" B="0" C="0" D="16000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4810" Y="-925" ClassName="VisualRunner: walls.recessed_panel_main_1" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4810" Y="-645" ClassName="VisualRunner: walls.recessed_panel_main_2" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4810" Y="-806" ClassName="VisualRunner: walls.recessed_panel_edge_3" Width="12800" Height="16200" NativeX="12800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="16200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5735" Y="-925" ClassName="VisualRunner: walls.recessed_panel_main_1" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-12800" B="0.001119012" C="-0.001049073" D="-12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5735" Y="-645" ClassName="VisualRunner: walls.recessed_panel_main_2" Width="12800" Height="12000" NativeX="12800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-12800" B="0.001119012" C="-0.001049073" D="-12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5735" Y="-806" ClassName="VisualRunner: walls.recessed_panel_edge_3" Width="12800" Height="16200" NativeX="12800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="-12800" B="0.001119012" C="-0.001416249" D="-16200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4937" Y="-925" ClassName="VisualRunner: walls.recessed_panel_edge_1" Width="100" Height="12000" NativeX="800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4937" Y="-645" ClassName="VisualRunner: walls.recessed_panel_edge_2" Width="100" Height="12000" NativeX="800" NativeY="12000" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="12000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4937" Y="-806" ClassName="VisualRunner: walls.recessed_panel_center" Width="100" Height="16200" NativeX="800" NativeY="800" Layer="CPanels">
+        <Properties>
+          <Static>
+            <Matrix A="100" B="0" C="0" D="16200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5808" Y="-646" ClassName="VisualRunner: traps_shadows.gradient_intense" Width="16000" Height="1500" NativeX="25600" NativeY="1600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="16000" C="-1500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4680" Y="-648" ClassName="VisualRunner: traps_shadows.gradient_intense_rounded" Width="25600" Height="16000" NativeX="25600" NativeY="25600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="25600" B="0" C="0" D="16000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4837" Y="-548" ClassName="VisualRunner: walls.wall_white_1x400" Width="34500" Height="40000" NativeX="800" NativeY="800" Layer="Wall">
+        <Properties>
+          <Static>
+            <Matrix A="34500" B="0" C="0" D="40000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5835" Y="-231" ClassName="VisualRunner: walls.wall_white_1x400" Width="130400" Height="246500" NativeX="800" NativeY="800" Layer="Wall">
+        <Properties>
+          <Static>
+            <Matrix A="130400" B="0" C="0" D="246500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5845" Y="-634" ClassName="VisualRunner: walls.wall_white_1x400" Width="132900" Height="14300" NativeX="800" NativeY="800" Layer="Wall">
+        <Properties>
+          <Static>
+            <Matrix A="132900" B="0" C="0" D="14300" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5835" Y="-628" ClassName="VisualRunner: walls.wall_white_1x400" Width="13100" Height="52300" NativeX="800" NativeY="800" Layer="Wall">
+        <Properties>
+          <Static>
+            <Matrix A="13100" B="0" C="0" D="52300" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5729" Y="-339" ClassName="VisualRunner: black.manipulator_alpha_4" Width="27600.02" Height="15000.02" NativeX="27600" NativeY="15000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="111" B="-27599.8" C="14999.9" D="60" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4613" Y="-651" ClassName="Support" Width="31299.95" Height="16200.08" NativeX="31300" NativeY="16200" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="29958" B="-9067.6" C="4693.166" D="15505" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5841" Y="-420" ClassName="VisualRunner: black.manipulator_alpha_2" Width="21000" Height="11000" NativeX="21000" NativeY="11000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="21000" C="-11000" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5391" Y="-502" ClassName="VisualRunner: lights.liftlamp" Width="43644.12" Height="6698.708" NativeX="36397.42" NativeY="6698.709" Layer="Lights">
+        <Properties>
+          <Static>
+            <Matrix A="-43644" B="0.00381549" C="-0.0005856197" D="-6699" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5785" Y="-502" ClassName="VisualRunner: lights.liftlamp" Width="43644.12" Height="6698.708" NativeX="36397.42" NativeY="6698.709" Layer="Lights">
+        <Properties>
+          <Static>
+            <Matrix A="-43644" B="0.00381549" C="-0.0005856197" D="-6699" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5799" Y="-2716" ClassName="VisualRunner: black.v_black" Width="11700" Height="495000" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="11700" B="0" C="0" D="495000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5759" Y="-239" ClassName="VisualRunner: black.v_black" Width="5200" Height="18600" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="5200" B="0" C="0" D="18600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5802" Y="512" ClassName="VisualRunner: black.slope_4_1" Width="60000" Height="7400" NativeX="60000" NativeY="7400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-60000" C="7400" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5355" Y="-166" ClassName="VisualRunner: black.lab_corner_4_simple" Width="800" Height="2600" NativeX="800" NativeY="2600" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-800" B="6.993822E-05" C="-0.0002272992" D="-2600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5347" Y="-166" ClassName="VisualRunner: black.v_black" Width="1000" Height="9000" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-1000" B="8.742278E-05" C="-0.000786805" D="-9000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4645" Y="20" ClassName="VisualRunner: black.v_black" Width="7500" Height="3000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="7500" B="0" C="0" D="3000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4704" Y="20" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1500" B="0" C="0" D="1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4704" Y="1" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1500" B="0.0001311342" C="-0.0001311342" D="-1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4653" Y="-6" ClassName="VisualRunner: black.tp_sphere_simple" Width="1200" Height="1200" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1200" B="0.0001049073" C="-0.0001049073" D="-1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4653" Y="27" ClassName="VisualRunner: black.tp_sphere_simple" Width="1200" Height="1200" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1200" B="0" C="0" D="1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4789" Y="20" ClassName="VisualRunner: black.v_black" Width="7500" Height="3000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="7500" B="0" C="0" D="3000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4780" Y="20" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1500" B="0" C="0" D="1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4780" Y="1" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1500" B="0.0001311342" C="-0.0001311342" D="-1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4830" Y="-6" ClassName="VisualRunner: black.tp_sphere_simple" Width="1200" Height="1200" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1200" B="0.0001049073" C="-0.0001049073" D="-1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4830" Y="27" ClassName="VisualRunner: black.tp_sphere_simple" Width="1200" Height="1200" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1200" B="0" C="0" D="1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4684" Y="85" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1500" B="0" C="0" D="1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4684" Y="11" ClassName="VisualRunner: black.v_black" Width="2998.2" Height="9980.267" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="2998" B="0" C="0" D="9980" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4684" Y="1" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1500" B="0.0001311342" C="-0.0001311342" D="-1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4693" Y="85" ClassName="VisualRunner: black.v_black" Width="15000" Height="3000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="15000" B="0" C="0" D="3000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4799" Y="1" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1500" B="0.0001311342" C="-0.0001311342" D="-1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4780" Y="11" ClassName="VisualRunner: black.v_black" Width="2998.2" Height="9980.267" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="2998" B="0" C="0" D="9980" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4799" Y="85" ClassName="VisualRunner: black.tp_sphere_simple" Width="1500" Height="1500" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1500" B="0" C="0" D="1500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4718" Y="92" ClassName="VisualRunner: black.v_black" Width="7500" Height="5500" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="7500" B="0" C="0" D="5500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4718" Y="56" ClassName="VisualRunner: black.angle_45_hard_512x512_simple" Width="7500" Height="700" NativeX="35200" NativeY="5300" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="7500" B="0" C="0" D="700" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4718" Y="82" ClassName="VisualRunner: black.silhouette_main_4_2" Width="7500" Height="3000" NativeX="10100" NativeY="4000" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-7500" B="0.0006556708" C="-0.0002622683" D="-3000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4731" Y="54" ClassName="VisualRunner: black.v_black" Width="3500" Height="7500" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="3500" B="0" C="0" D="7500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4718" Y="-110" ClassName="VisualRunner: black.v_black" Width="7500" Height="7500" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="7500" B="0" C="0" D="7500" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4718" Y="-97" ClassName="VisualRunner: black.tp_sphere_simple" Width="2100" Height="2100" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="2100" B="0" C="0" D="2100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4766" Y="-97" ClassName="VisualRunner: black.tp_sphere_simple" Width="2100" Height="2100" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="2100" B="0" C="0" D="2100" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4711" Y="-150" ClassName="VisualRunner: black.tp_sphere_simple" Width="1200" Height="1200" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1200" B="0" C="0" D="1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4773" Y="-150" ClassName="VisualRunner: black.tp_sphere_simple" Width="1200" Height="1200" NativeX="6400" NativeY="6400" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1200" B="0" C="0" D="1200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4978" Y="70" ClassName="VisualRunner: black.v_black" Width="4000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="4000" B="0" C="0" D="6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4973" Y="65" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="447" B="-1341.641" C="670.8204" D="224" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4973" Y="4" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="447" B="1341.641" C="-670.8205" D="224" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5000" Y="15" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="447" B="-1341.641" C="670.8204" D="224" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5000" Y="53" ClassName="Support" Width="1414.214" Height="707.1068" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="447" B="1341.641" C="-670.8205" D="224" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4973" Y="70" ClassName="VisualRunner: black.v_black" Width="5200" Height="400" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="5200" B="0" C="0" D="400" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4973" Y="4" ClassName="VisualRunner: black.v_black" Width="5200" Height="400" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="5200" B="0" C="0" D="400" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4900" Y="70" ClassName="VisualRunner: black.v_black" Width="5000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="5000" B="0" C="0" D="6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4900" Y="58" ClassName="VisualRunner: black.v_black" Width="6000" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="6000" B="0" C="0" D="4000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4943" Y="70" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1000" B="-1000" C="1000" D="1000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4943" Y="22" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="1000" B="-1000" C="1000" D="1000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5199" Y="70" ClassName="VisualRunner: black.v_black" Width="5000" Height="6000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-5000" B="0.0004371139" C="-0.0005245366" D="-6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5199" Y="58" ClassName="VisualRunner: black.v_black" Width="6000" Height="4000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-6000" B="0.0005245366" C="-0.0003496911" D="-4000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5156" Y="70" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1000" B="-1000" C="1000" D="-1000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5156" Y="22" ClassName="VisualRunner: black.v_black" Width="1414.214" Height="1414.214" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="-1000" B="-1000" C="1000" D="-1000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4952" Y="46" ClassName="VisualRunner: black.v_black" Width="23000" Height="2000" NativeX="800" NativeY="800" Layer="TrapsBlack">
+        <Properties>
+          <Static>
+            <Matrix A="23000" B="0" C="0" D="2000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5211" Y="-122" ClassName="VisualRunner: black.silhouette_main_3_4" Width="25300" Height="5100" NativeX="29900" NativeY="6000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="25300" C="-5100" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4599" Y="-131" ClassName="VisualRunner: walls.panel_blue_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4726" Y="-4" ClassName="VisualRunner: walls.panel_blue_underfloor_lightweight_lower" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4854" Y="-4" ClassName="VisualRunner: walls.panel_blue_underfloor_lower" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4598" Y="-4" ClassName="VisualRunner: walls.panel_blue_underfloor_lower" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4855" Y="-131" ClassName="VisualRunner: walls.panel_blue_underfloor_lightweight" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4727" Y="-131" ClassName="VisualRunner: walls.panel_blue_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4983" Y="-131" ClassName="VisualRunner: walls.panel_blue_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5110" Y="-4" ClassName="VisualRunner: walls.panel_blue_underfloor_lightweight_lower" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4982" Y="-4" ClassName="VisualRunner: walls.panel_blue_underfloor_lower" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5111" Y="-131" ClassName="VisualRunner: walls.panel_blue_underfloor" Width="12800" Height="12800" NativeX="12800" NativeY="12800" Layer="UnderFloorPanels">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="12800" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4934" Y="188" ClassName="VisualRunner: black.manipulator_alpha_4" Width="29200" Height="15000" NativeX="27600" NativeY="15000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-29200" C="15000" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4629" Y="-127" ClassName="VisualRunner: black.slope_4_1" Width="48200" Height="7400" NativeX="60000" NativeY="7400" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="48200" B="0" C="0" D="7400" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4611" Y="-110" ClassName="VisualRunner: black.silhouette_main_2_6" Width="7700" Height="6000" NativeX="7700" NativeY="6000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="7700" B="0" C="0" D="6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4606" Y="-166" ClassName="VisualRunner: black.v_black" Width="73500" Height="6400" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="73500" B="0" C="0" D="6400" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5208" Y="-117" ClassName="VisualRunner: black.v_black" Width="13900" Height="38700" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="13900" B="0" C="0" D="38700" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4618" Y="155" ClassName="VisualRunner: black.angle_45_hard_512x512_simple" Width="19500" Height="2900" NativeX="35200" NativeY="5300" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-19500" C="2900" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4626" Y="152" ClassName="VisualRunner: black.silhouette_main_2_2" Width="17000" Height="6000" NativeX="17100" NativeY="6000" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="-17000" B="0.001486187" C="-0.0005245366" D="-6000" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5129" Y="-16" ClassName="Support" Width="7198.4" Height="9781.53" NativeX="8700" NativeY="11800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="6512" B="3067.197" C="-4167.854" D="8849" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4888" Y="141" ClassName="VisualRunner: black.v_black" Width="5500.008" Height="5500.008" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="2938" B="-4649.459" C="4649.459" D="2938" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4970" Y="106" ClassName="VisualRunner: black.silhouette_main_3_1" Width="3400" Height="18200" NativeX="3400" NativeY="18200" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="3400" C="-18200" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5205" Y="-113" ClassName="VisualRunner: traps_shadows.gradient_intense" Width="16000" Height="1500" NativeX="25600" NativeY="1600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="16000" C="-1500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4492" Y="-166" ClassName="VisualRunner: black.v_black" Width="12800" Height="36600" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="12800" B="0" C="0" D="36600" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4492" Y="122" ClassName="VisualRunner: black.v_black" Width="85500" Height="211200" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="85500" B="0" C="0" D="211200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5335" Y="448" ClassName="VisualRunner: black.angle_45_hard_512x512_simple" Width="35200" Height="3000" NativeX="35200" NativeY="5300" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-35200" C="3000" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5806" Y="362" ClassName="VisualRunner: traps_shadows.gradient_intense" Width="16000" Height="1500" NativeX="25600" NativeY="1600" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="0" B="-16000" C="1500" D="0" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="5282" Y="362" ClassName="VisualRunner: traps_shadows.v_white" Width="1600" Height="1600" NativeX="5000" NativeY="5000" Layer="Shadows">
+        <Properties>
+          <Static>
+            <Matrix A="1600" B="0" C="0" D="1600" Tx="0" Ty="0" />
+            <StartColor Color="#203650" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4492" Y="-2716" ClassName="VisualRunner: black.v_black" Width="131400" Height="211200" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="131400" B="0" C="0" D="211200" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Image X="4492" Y="-635" ClassName="VisualRunner: black.v_black" Width="19300" Height="10900" NativeX="800" NativeY="800" Layer="Black">
+        <Properties>
+          <Static>
+            <Matrix A="19300" B="0" C="0" D="10900" Tx="0" Ty="0" />
+          </Static>
+        </Properties>
+      </Image>
+      <Platform X="-927" Y="-45" Width="5512.167" Height="1364.927" />
+      <In Name="In" X="-846" Y="-66" />
+      <Out Name="Out" X="4492" Y="-166" />
+    </Content>
+  </Track>
+</Root>
