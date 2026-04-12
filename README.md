@@ -372,6 +372,11 @@ Planned improvements include:
 
 ---
 
+Also, I own NOTHING all of this is the rightful property of Nekki. 
+
+
+
+
 # **Need Help?**
 
 You can contact me through:
