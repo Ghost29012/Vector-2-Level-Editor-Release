@@ -18,7 +18,7 @@ www.youtube.com/@Enderdude290
 
 # **Setup**
 
-To load and play custom rooms, you must install **my modified version of Vector 2**, which can be found in the **Releases tab** or on its own GitHub page. Link is here: [https://github.com/Ghost29012/Vector-2-/releases/tag/Release](https://github.com/Ghost29012/Vector-2-/releases/tag/Release)
+To load and play custom rooms, you must install **my modified version of Vector 2**, which can be found in the **Releases tab** or on its own GitHub page. Link is here: https://github.com/Ghost29012/Vector-2-mod-support-release
 
 Once the game runs at least once and you enter a level, the game will create two folders inside your Nekki directory:
 
