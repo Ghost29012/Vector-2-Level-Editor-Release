@@ -391,7 +391,7 @@ enderdude290
 
 # Additional Links:
 
-My modified vector 2 Project with custom room and custom texture loading (NEEDED\!): (https://github.com/Ghost29012/Vector-2-/releases/tag/Release)   ](https://github.com/Ghost29012/Vector-2-mod-support-release/releases/tag/Release)
+My modified vector 2 Project with custom room and custom texture loading (NEEDED\!): (https://github.com/Ghost29012/Vector-2-mod-support-release/releases/tag/Release)
 Sonamenils original project:[https://github.com/sonamenil/Vectorier-Editor-Vector2?tab=readme-ov-file](https://github.com/sonamenil/Vectorier-Editor-Vector2?tab=readme-ov-file)  
 Sonamenils Vector 2 Unity project: [https://github.com/sonamenil/Vector2-UnityProject](https://github.com/sonamenil/Vector2-UnityProject)
 
