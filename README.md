@@ -2,6 +2,16 @@
 
 ---
 
+# **THIS VERSION IS OUT OF DATE, PLEASE CONSIDER USING THE NEW, MORE ADVANCED VERSION HERE:
+
+**macOS:** https://github.com/Ghost29012/Vector-2-SDK/releases/tag/Release
+
+**Windows:** https://github.com/tomdev290/Vector-2-SDK-Windows/releases/tag/Release
+
+**NEW BUILD OF VECTOR 2:** https://github.com/Ghost29012/Vector-2-Modding-Project
+
+
+
 # **Vector 2 Level Editor**
 
 A fork of **Sonamenil’s Vector 2 Level Editor** and the **Vector 2 Unity project**. This version features a full-fledged UI, the ability to run as a separate application, and support for loading custom textures through its own runtime.
